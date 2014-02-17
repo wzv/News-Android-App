@@ -60,6 +60,9 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:focusable="false"
-        android:clickable="false" />
+        android:clickable="false"
+        android:layout_marginLeft="@dimen/color_bar_of_feeds"
+
+        />
     
 </LinearLayout>
