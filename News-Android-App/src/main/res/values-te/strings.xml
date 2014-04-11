@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_settings">అమరికలు</string>
   <!--<string name="non_sorted_articles">Nicht zugeordnete Artikel</string>-->
   <!--EMAIL-->
   <!--Action Bar Items-->
+  <string name="action_save">భద్రపరచు</string>
+  <string name="action_settings">అమరికలు</string>
   <!--Strings related to login-->
   <string name="pref_title_username">వాడుకరి పేరు</string>
   <string name="pref_title_password">సంకేతపదం</string>
@@ -19,6 +20,7 @@
 	</string-array>-->
   <!--<string name="pref_title_social_recommendations">Enable social recommendations</string>
     <string name="pref_description_social_recommendations">Recommendations for people to contact based on your message history</string>-->
+  <string name="warning">హెచ్చరిక</string>
   <!--<string name="pref_title_AllowAllSSLCertificates">Allow all SSL Certificates</string>-->
   <!--MemorizingTrustManager-->
   <!--Settings for Display-->
